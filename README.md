@@ -1,2 +1,9 @@
-# Decimo-repReadme
-Este es mi décimo repositorio.
+Este es mi decimo repositorio en github, trabajado desde mi computadora personal.
+
+
+
+
+
+
+
+
